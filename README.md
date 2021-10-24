@@ -1,2 +1,0 @@
-# tecnio.github.io
-Yes
